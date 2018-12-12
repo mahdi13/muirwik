@@ -100,3 +100,9 @@ typings/
 .serverless
 
 # Our own ignore files
+.idea
+.gradle
+*/build
+*/dist
+*/out
+*/package-lock.json
